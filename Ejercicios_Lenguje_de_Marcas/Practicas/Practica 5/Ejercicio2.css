@@ -1,0 +1,46 @@
+body{
+    height:100vh;
+    margin: 0;
+}
+div{
+    border: 2px solid black; 
+    box-sizing: border-box;
+    display: flex;
+}
+p{
+    font-size: 3vw;
+}
+#verde{
+    background-color: green;
+    height: 30%;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+#azul{
+    background-color: rgb(68, 134, 200);
+    height: 70%;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+
+}
+#caja4{
+    height: 90%;
+    width: 45%;
+}
+.verde1{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.azul1{
+    
+    width: 45%;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+}
+

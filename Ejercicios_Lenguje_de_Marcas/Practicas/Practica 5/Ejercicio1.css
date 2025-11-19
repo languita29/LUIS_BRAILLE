@@ -1,0 +1,26 @@
+div{
+    height: 300px;
+    background-color: orange;
+    width: 100%;
+    border: solid black 1px;
+    display: flex;
+}
+.caja{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+#caja1{
+    align-items: center;
+    justify-content: space-between;
+}
+#caja2{
+    justify-content: space-around;
+}
+#caja3{
+    align-items:flex-end;
+    justify-content: center;
+}
+#caja4{
+    justify-content: left;
+}

@@ -1,0 +1,25 @@
+div{
+    display: flex;
+    background-color: rgb(115, 240, 230);
+}
+.img{
+    background-color: rgb(84, 238, 186);
+    width: 200px;
+}
+.marron{
+    background-color:rgb(214, 214, 193);
+    text-align: left;
+    margin: 0;
+}
+.azul{
+    background-color: rgb(29, 167, 172);
+    text-align: right;
+    margin: 0;
+}
+.caja{
+    width: 600px;
+    height: 200px;
+    margin:9px ;
+    padding: 10px;
+
+}

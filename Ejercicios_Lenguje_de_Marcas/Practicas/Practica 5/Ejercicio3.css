@@ -1,0 +1,16 @@
+div{
+    display:flex ;
+    flex-direction: column;
+}
+#naranja{
+    background-color: orange;
+    flex-direction: row;
+}
+#zona1{
+    height: 30%;
+    width: 20%;
+}
+#zona2{
+    height: 30%;
+    width: 80%;
+}
